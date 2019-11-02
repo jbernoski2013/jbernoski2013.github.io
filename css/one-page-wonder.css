@@ -159,9 +159,9 @@ header.masthead .bg-circle-4 {
   box-shadow: 0 0 0 0.2rem #5D536B;
 }
 a{
-  color: #7C6A87;
+  color: #7C6A87!important;
 }
 
 a:hover{
-  color:white;
+  color:white!important;
 }
