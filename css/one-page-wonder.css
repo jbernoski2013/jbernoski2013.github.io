@@ -159,7 +159,7 @@ header.masthead .bg-circle-4 {
   box-shadow: 0 0 0 0.2rem #5D536B;
 }
 
-.button {
+.links {
   background-color: white; /* Green */
   border: 1px #9C96B7;
   color: black;
@@ -174,7 +174,7 @@ header.masthead .bg-circle-4 {
   cursor: pointer;
 }
 
-.button:hover {
+.links:hover {
   background-color: #9C96B7;
   color: black;
 }
